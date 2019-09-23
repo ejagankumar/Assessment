@@ -1,0 +1,10 @@
+.MuiInput-root {
+  width: 200px !important;
+}
+.flexi-padding {
+  display: inline-block;
+}
+.dropdown {
+  padding-top: 15px;
+  padding-left: 30px;
+}
